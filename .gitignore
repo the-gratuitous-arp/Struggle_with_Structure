@@ -1,0 +1,7 @@
+__pycache__
+*env
+*test
+test*
+.DS_Store
+wip
+source_images
